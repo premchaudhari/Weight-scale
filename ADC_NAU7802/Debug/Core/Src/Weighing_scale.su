@@ -1,0 +1,5 @@
+Weighing_scale.c:11:6:calibration	32	static
+Weighing_scale.c:34:10:avg	32	static
+Weighing_scale.c:46:6:calculation	24	static
+Weighing_scale.c:65:6:overload	4	static
+Weighing_scale.c:81:6:accuracy	16	static
